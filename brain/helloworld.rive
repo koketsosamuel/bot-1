@@ -1,0 +1,40 @@
++ hi
+- hello, how are you?
+- hullo, what is your name?
+- hey
+- hi
+
++ hello
+- hello
+- hullo
+- hey
+- hi
+
++ my name is *
+- <set name=<star>>It's nice to meet you, <get name>.
+
++ what is my name
+- Your name is <get name>, silly!
+- Thats an awkward question. But your name is <get name>
+
++ i am # years old
+- <set age=<star>>I will remember that you are <get age> years old.
+
++ how old am i
+- You are <get age> years old.
+
+
++ knock knock
+- Who's there?
+
++ *
+% who is there
+- <star> who?
+
++ *
+% * who
+- LOL! <star>! That's funny!
+
+
++ *
+- i dont get you
